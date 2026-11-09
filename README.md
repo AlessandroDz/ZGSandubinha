@@ -1,6 +1,6 @@
 # ZGSandubinha
 Teste da Zg rpg Sandubinha
-O arquivo esta reset
+O arquivo esta na branche -> reset
 
 # ⚔️ ZG Sandubinha RPG
 
